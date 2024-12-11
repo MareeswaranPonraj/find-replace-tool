@@ -1,3 +1,15 @@
+#How to run the project
+
+git clone <repository-url>
+
+cd <project-directory>
+
+npm install
+
+ng serve
+
+
+
 # FindReplaceTool
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.0.4.

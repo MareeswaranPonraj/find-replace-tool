@@ -1,0 +1,17 @@
+/* Bootstrap will handle most styling. Adding minor customizations. */
+textarea.form-control {
+  resize: none;
+}
+.alert {
+  font-size: 1rem;
+  font-weight: bold;
+}
+
+.background {
+  background: linear-gradient(135deg, #fefefe, #e1f2fb, #f8f2fd);
+  min-height: 100vh;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
